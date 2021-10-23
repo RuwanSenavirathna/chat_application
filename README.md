@@ -16,7 +16,7 @@ With online statuses, great design and functionality, icons telling you who read
 
 Backend is hosted by https://chatengine.io 
 
-## Exra Info
+## Extra Info
 LEARN: Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!
 
 Covered topics: React.js, Socket.io.
