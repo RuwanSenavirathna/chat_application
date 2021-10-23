@@ -1,8 +1,10 @@
 # Welcome to MS Teams Clone! Realtime Chat Application
 
-### [Example Website](https://chat-application-a2z.netlify.app/)
+### [Watch Example Website](https://chat-application-a2z.netlify.app/)
 
-![Teams Build with Chat Engine]
+
+![chatApp](https://user-images.githubusercontent.com/13724672/138548449-dabb2397-304e-47ad-982e-7507d6799d83.png)
+
 
 ## Introduction
 
@@ -16,4 +18,5 @@ Backend is hosted by https://chatengine.io
 
 ## Exra Info
 LEARN: Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!
+
 Covered topics: React.js, Socket.io.
