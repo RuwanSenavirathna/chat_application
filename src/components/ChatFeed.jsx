@@ -18,6 +18,12 @@ const ChatFeed = (props) => {
     />
   ));
 
+  const handleSignOut = () => {
+    localStorage.setItem('username', "");
+    localStorage.setItem('password', "");
+    window.location.reload();
+  };
+
   const renderMessages = () => {
     const keys = Object.keys(messages);
 
@@ -49,7 +55,12 @@ const ChatFeed = (props) => {
         <div className="chat-title">{chat?.title}</div>
         <div className="chat-subtitle">
           {chat.people.map((person) => ` ${person.person.username}`)}
-        </div>
+            <div align="right">
+                <button type="button" className="" onClick={handleSignOut}>
+                    <span>Sign Out</span>
+                </button>
+            </div>
+        </div>  
       </div>
       {renderMessages()}
       <div style={{ height: '100px' }} />
