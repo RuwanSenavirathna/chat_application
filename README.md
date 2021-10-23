@@ -1,6 +1,6 @@
 # Welcome to MS Teams Clone! Realtime Chat Application
 
-### [Watch Example Website](https://chat-application-a2z.netlify.app/)
+### [Go to Example Website](https://chat-application-a2z.netlify.app/)
 
 
 ![chatApp](https://user-images.githubusercontent.com/13724672/138548449-dabb2397-304e-47ad-982e-7507d6799d83.png)
