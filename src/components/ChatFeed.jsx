@@ -56,6 +56,7 @@ const ChatFeed = (props) => {
         <div className="chat-subtitle">
           {chat.people.map((person) => ` ${person.person.username}`)}
             <div align="right">
+                <div className="text">{localStorage.getItem('username')}</div>
                 <button type="button" className="" onClick={handleSignOut}>
                     <span>Sign Out</span>
                 </button>
