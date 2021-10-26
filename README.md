@@ -20,3 +20,11 @@ Backend is hosted by https://chatengine.io
 LEARN: Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!
 
 Covered topics: React.js, Socket.io.
+
+..........
+
+## Resources
++ Related Video : https://youtu.be/jcOKU9f86XE
++ API used : https://chatengine.io
+  ### Hosted application
+  + Frontend : https://chat-application-a2z.netlify.app/
