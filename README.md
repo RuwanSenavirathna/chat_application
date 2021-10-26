@@ -20,7 +20,7 @@ Backend is hosted by https://chatengine.io
 
 ## Resources
 + Related Video : https://youtu.be/jcOKU9f86XE
-+ API used : https://chatengine.io
++ API and UI Kit used : https://chatengine.io
   ### Hosted application
   + Frontend is hosted in Netlify : https://chat-application-a2z.netlify.app/
 
