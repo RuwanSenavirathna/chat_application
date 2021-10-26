@@ -28,3 +28,6 @@ Covered topics: React.js, Socket.io.
 + API used : https://chatengine.io
   ### Hosted application
   + Frontend is hosted in Netlify : https://chat-application-a2z.netlify.app/
+
+## Languages / Covered topics
++ React.js, Socket.io
